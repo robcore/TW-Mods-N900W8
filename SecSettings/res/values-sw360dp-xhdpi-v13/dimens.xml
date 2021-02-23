@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="guide_bubble_text_size">19.0dip</dimen>
+    <dimen name="guide_closed_bubble_close_img_margin_right">8.0dip</dimen>
+    <dimen name="guide_closed_bubble_close_img_margin_top">7.0dip</dimen>
+    <dimen name="guide_closed_bubble_divider_margin_right">3.0dip</dimen>
+</resources>

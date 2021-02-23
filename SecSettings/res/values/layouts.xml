@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="notification_app_section">@android:layout/preference_category_material</item>
+    <item type="layout" name="APKTOOL_DUMMY_193">false</item>
+    <item type="layout" name="APKTOOL_DUMMY_1f7">false</item>
+    <item type="layout" name="APKTOOL_DUMMY_285">false</item>
+</resources>
